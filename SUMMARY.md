@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Cài đặt](README.md)
+* [Giới thiệu](README.md)
+* [Cài đặt](cai-dat.md)
 
