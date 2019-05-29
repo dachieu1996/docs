@@ -22,4 +22,5 @@
 * [Lấy Báo cáo tài chính vào HTKK](huong-dan-su-dung-1/lay-bao-cao-tai-chinh-vao-htkk.md)
 * [Bổ sung thêm tài khoản con trong từ điển](huong-dan-su-dung-1/bo-sung-them-tai-khoan-con-trong-tu-dien.md)
 * [Nhập định mức nguyên vật liệu cho đơn vị sản xuất](huong-dan-su-dung-1/nhap-dinh-muc-nguyen-vat-lieu-cho-don-vi-san-xuat.md)
+* [Chuyển excel vào phần mềm kế toán](huong-dan-su-dung-1/chuyen-excel-vao-phan-mem-ke-toan.md)
 
