@@ -23,7 +23,13 @@
 
 ![](../.gitbook/assets/tm2.png)
 
+### **II. PHỤC HỒI DỮ LIỆU CŨ**
 
+#### 1. Có 2 kiểu dữ liệu cũ
+
+**1.1. Kiểu thứ nhất: dữ liệu đã được backup thành file.rar hoặc file.bak**
+
+Quý khách xem hướng dẫn tại link sau: [https://phanmemnhatnam.com/huong-dan-phuc-hoi-du-lieu/](https://phanmemnhatnam.com/huong-dan-phuc-hoi-du-lieu/)
 
 **1.2. Kiểu thứ hai: dữ liệu được lưu trữ trong dưới dạng file gốc .mdf hoặc .data**
 
