@@ -27,9 +27,13 @@
 
 ## Kiến thức kế toán
 
+* [Kế toán là gì? Hạch toán kế toán là gì? Thông tư 133 có gì khác?](kien-thuc-ke-toan/ke-toan-la-gi-hach-toan-ke-toan-la-gi-thong-tu-133-co-gi-khac-1.md)
 * [Cách hạch toán thuế xuất nhập khẩu - tài khoản 3333](kien-thuc-ke-toan/cach-hach-toan-thue-xuat-nhap-khau-tai-khoan-3333.md)
 * [Cách hạch toán tiền phạt chậm nộp thuế, truy thu thuế, vi phạm hợp đồng kinh tế](kien-thuc-ke-toan/cach-hach-toan-tien-phat-cham-nop-thue-truy-thu-thue-vi-pham-hop-dong-kinh-te.md)
 * [Cách hạch toán các khoản thu nhập khác  - tài khoản 711](kien-thuc-ke-toan/cach-hach-toan-cac-khoan-thu-nhap-khac-tai-khoan-711.md)
 * [Cách hạch toán lương - tài khoản 334 Phải trả cho người lao động](kien-thuc-ke-toan/cach-hach-toan-luong-tai-khoan-334-phai-tra-cho-nguoi-lao-dong.md)
-* [Kế toán là gì? Hạch toán kế toán là gì? Thông tư 133 có gì khác?](kien-thuc-ke-toan/ke-toan-la-gi-hach-toan-ke-toan-la-gi-thong-tu-133-co-gi-khac.md)
+* [Cách hạch toán thuế thu nhập doanh nghiệp - tài khoản 821](kien-thuc-ke-toan/cach-hach-toan-thue-thu-nhap-doanh-nghiep-tai-khoan-821.md)
+* [Cách hạch toán chiết khấu thương mại theo thông tư 133](kien-thuc-ke-toan/cach-hach-toan-chiet-khau-thuong-mai-theo-thong-tu-133.md)
+* [Cách hạch toán tiền lãi gửi - doanh thu hoạt động tài chính tài khoản 515](kien-thuc-ke-toan/cach-hach-toan-tien-lai-gui-doanh-thu-hoat-dong-tai-chinh-tai-khoan-515.md)
+* [Cách hạch toán doanh thu bán hàng - tài khoản 511](kien-thuc-ke-toan/cach-hach-toan-doanh-thu-ban-hang-tai-khoan-511.md)
 
