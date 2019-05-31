@@ -8,7 +8,7 @@ description: ƯU ĐIỂM VÀ ƯU ĐÃI NỔI TRỘI CỦA PHẦN MỀM KẾ TOÁ
 
 ![](.gitbook/assets/box-nha-t-nam.png)
 
-Xây dựng theo hướng mở rộng phù hợp với mọi yêu cầu quản lý tài chính kế toán của các đơn vị khác nhau như:
+Phần mềm được xây dựng theo hướng mở rộng phù hợp với mọi yêu cầu quản lý tài chính kế toán của các đơn vị khác nhau như:
 
 * Kế toán doanh nghiệp lớn, vừa và nhỏ:
   * Kế toán thi công xây dựng, giao thông, thủy lợi
@@ -17,7 +17,7 @@ Xây dựng theo hướng mở rộng phù hợp với mọi yêu cầu quản l
 * Kế toán chủ đầu tư
 * Kế toán hành chính sự nghiệp
 
-**Luôn được cập nhật** theo các quyết định, các chuẩn mực kế toán, thông tư mới ban hành
+> _**Luôn được cập nhật theo các quyết định, các chuẩn mực kế toán, thông tư mới ban hành**_
 
 Hệ thống tác nghiệp bao gồm:
 
@@ -77,7 +77,7 @@ Hỗ trợ sử dụng các cơ sở dữ liệu danh tiếng như: SQL Server, 
 
 ## DỊCH VỤ VÀ ƯU ĐÃI LỚN
 
- Đối với khách hàng dùng thử phần mềm kế toán Nhất Nam, sẽ được **hỗ trợ quyết toán 1 quý** của năm hiện tại và cả năm đối với các năm cũ. Tặng kèm **gói hỗ trợ trực tuyến 24/7** trong thời gian dùng thử.
+Đối với khách hàng dùng thử phần mềm kế toán Nhất Nam, sẽ được **hỗ trợ quyết toán 1 quý** của năm hiện tại và cả năm đối với các năm cũ. Tặng kèm **gói hỗ trợ trực tuyến 24/7** trong thời gian dùng thử.
 
  **Hỗ trợ tư vấn trực tiếp 24/7** kể cả các ngày lễ đối với tất cả khách hàng.
 
