@@ -1,8 +1,4 @@
----
-description: ƯU ĐIỂM VÀ ƯU ĐÃI NỔI TRỘI CỦA PHẦN MỀM KẾ TOÁN NHẤT NAM
----
-
-# Giới thiệu
+# GIƠI THIỆU
 
 ## **PHẦN MỀM KẾ TOÁN NHẤT NAM**
 
