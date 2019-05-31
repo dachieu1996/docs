@@ -4,42 +4,34 @@ description: ƯU ĐIỂM VÀ ƯU ĐÃI NỔI TRỘI CỦA PHẦN MỀM KẾ TOÁ
 
 # Giới thiệu
 
-Cái đầu tiên là giới thiệu
+## **PHẦN MỀM KẾ TOÁN NHẤT NAM**
 
-Tiêu đề chỉ cần ghi nội dung k cần thêm chữ hướng dẫn
+![](.gitbook/assets/box-nha-t-nam.png)
 
-Mỗi lần làm xong thì ấn dấu tích xanh dưới, xong ấn nút Merge màu xanh nc biển ở dưới phần DRAFT
+Xây dựng theo hướng mở rộng phù hợp với mọi yêu cầu quản lý tài chính kế toán của các đơn vị khác nhau như:
 
-Vào đây xem kết quả: [https://docs.phanmemnhatnam.com/](https://docs.phanmemnhatnam.com/)
+* Kế toán doanh nghiệp lớn, vừa và nhỏ:
+  * Kế toán thi công xây dựng, giao thông, thủy lợi
+  * Kế toán thương mại, nhà hàng, kho
+  * Kế toán sản xuất
+* Kế toán chủ đầu tư
+* Kế toán hành chính sự nghiệp
 
+**Luôn được cập nhật** theo các quyết định, các chuẩn mực kế toán, thông tư mới ban hành
 
+Hệ thống tác nghiệp bao gồm:
 
-**Phần mềm Kế toán Nhất Nam** là phần mềm kế toán Việt Nam chuyên nghiệp:
+* Kế toán vốn bằng tiền \(Tiền mặt, tiền gửi ngân hàng, tiền vay\).
+* Kế toán công trình, hợp đồng, công nợ \(thanh toán, tạm ứng, phải thu, phải trả khác\).
+* Kế toán vật tư, hàng hóa, công cụ dụng cụ.
+* Kế toán tài sản cố định.
+* Kế toán nguồn vốn, các quỹ.
+* Kế toán tập hợp chi phí sản xuất và tính giá thành sản phẩm.
+* Kế toán thuế GTGT.
+* Kế toán tổng hợp và lập các báo cáo tài chính.
+* Kế toán quản trị.
 
-* Xây dựng theo hướng mở rộng phù hợp với mọi yêu cầu quản lý tài chính kế toán của các đơn vị khác nhau như:
-  * Kế toán doanh nghiệp lớn, vừa và nhỏ:
-    * Kế toán thi công xây dựng, giao thông, thủy lợi
-    * Kế toán thương mại, nhà hàng, kho
-    * Kế toán sản xuất
-  * Kế toán chủ đầu tư
-  * Kế toán hành chính sự nghiệp
-* **Luôn được cập nhật** theo các quyết định, các chuẩn mực kế toán, thông tư mới ban hành
-
-### HỆ THỐNG TÁC NGHIỆP BAO GỒM:
-
-* Kế toán **vốn bằng tiền** \(Tiền mặt, tiền gửi ngân hàng, tiền vay\).
-* Kế toán **công trình, hợp đồng, công nợ** \(thanh toán, tạm ứng, phải thu, phải trả khác\).
-* Kế toán **vật tư, hàng hóa, công cụ dụng cụ**.
-* Kế toán **tài sản cố định**.
-* Kế toán **nguồn vốn, các quỹ**.
-* Kế toán **tập hợp chi phí sản xuất và tính giá thành sản phẩm**.
-* Kế toán **thuế GTGT**.
-* Kế toán **tổng hợp và lập các báo cáo tài chính**.
-* Kế toán **quản trị**.
-
-### 
-
-### ƯU ĐIỂM NỔI TRỘI CỦA PHẦN MỀM
+## ƯU ĐIỂM NỔI TRỘI CỦA PHẦN MỀM
 
 Phần mềm kế toán Nhất Nam với nhiều ưu điểm nổi trội, dưới đây là một vài ưu điểm chính:
 
@@ -83,7 +75,7 @@ Mạng: Client/Server \(không cần phải Share các máy nên rất an toàn 
 
 Hỗ trợ sử dụng các cơ sở dữ liệu danh tiếng như: SQL Server, Access, Oracle …
 
-### DỊCH VỤ VÀ ƯU ĐÃI LỚN KHI DÙNG THỬ / MUA SẢN PHẨM
+## DỊCH VỤ VÀ ƯU ĐÃI LỚN
 
  Đối với khách hàng dùng thử phần mềm kế toán Nhất Nam, sẽ được **hỗ trợ quyết toán 1 quý** của năm hiện tại và cả năm đối với các năm cũ. Tặng kèm **gói hỗ trợ trực tuyến 24/7** trong thời gian dùng thử.
 
