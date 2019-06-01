@@ -1,6 +1,6 @@
 # Table of contents
 
-* [GIƠI THIỆU](README.md)
+* [GIỚI THIỆU](README.md)
 
 ## Cài đặt
 
