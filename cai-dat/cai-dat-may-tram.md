@@ -18,7 +18,7 @@
 *  Xóa biểu tượng 1N có tên KETOAN, và xóa thư mục Ketoan tại ổ C:\Program Files \(x86\)
 *  Khởi động lại máy -&gt; xong
 
-## **Mất shortcut \(biểu tượng\) từ máy chủ**
+## **Mất shortcut từ máy chủ**
 
 **Bước 1:** Click vào My computer \(trên desktop\) hoặc chọn File explorer ở thanh taskbar -&gt; click This PC \(một số máy sẽ là "My computer"\) -&gt; search \\tên\_máy\_chủ. Ví dụ máy chủ tên là maychu -&gt; search \\maychu -&gt; bấm enter.
 
