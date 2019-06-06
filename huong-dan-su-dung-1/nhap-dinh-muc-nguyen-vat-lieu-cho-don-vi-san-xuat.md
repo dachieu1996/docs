@@ -40,9 +40,9 @@ Tích vào ô TẠO PHIẾU NHẬP KHO THÀNH PHẨM \(nếu muốn nhập kho t
 
 **Lưu ý:** Đối với các mục Nhân công, máy thi công, sản xuất chung -&gt; phải nhập trực tiếp theo từng công trình sản phẩm. Vào chứng từ -&gt; Chứng từ kế toán -&gt; chọn loại chứng từ KHÁC để hạch toán -&gt; nhập xong TÍNH SỐ DƯ CUỐI THÁNG số liệu sẽ nhảy vào bảng TÍNH GIÁ THÀNH SẢN PHẨM này.
 
-**Về PHIẾU NHẬP KHO THÀNH PHẨM**
+**VỀ PHIẾU NHẬP KHO THÀNH PHẨM**
 
-menu chứng từ -&gt; phiếu nhập vật tư hàng hóa, thành phẩm -&gt; chọn kho Thành phẩm
+Vào menu chứng từ -&gt; phiếu nhập vật tư hàng hóa, thành phẩm -&gt; chọn kho Thành phẩm
 
 ![](https://phanmemnhatnam.com/wp-content/uploads/2018/05/1-4.png)
 

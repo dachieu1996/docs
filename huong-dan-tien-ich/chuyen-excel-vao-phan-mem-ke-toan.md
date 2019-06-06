@@ -1,4 +1,4 @@
-# Chuyển excel vào phần mềm kế toán
+# Chuyển EXCEL vào phần mềm kế toán
 
 Bước 1: Vào Tiện Ích -&gt; E. Xuất XML, chuyển excel vào phần mềm
 

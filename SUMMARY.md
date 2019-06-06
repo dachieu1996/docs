@@ -12,15 +12,9 @@
 * [Nhập chứng từ kế toán](huong-dan-su-dung-1/nhap-chung-tu-ke-toan.md)
 * [Nhập - xuất vật tư - hàng hóa](huong-dan-su-dung-1/nhap-xuat-vat-tu-hang-hoa.md)
 * [Nhập số dư đầu](huong-dan-su-dung-1/nhap-so-du-dau.md)
-* [Sử dụng thanh menu TIỆN ÍCH](huong-dan-su-dung-1/su-dung-thanh-menu-tien-ich.md)
-* [Phân bổ và kết chuyển tài khoản](huong-dan-su-dung-1/phan-bo-va-ket-chuyen-tai-khoan.md)
 * [Nhập Tài sản cố định](huong-dan-su-dung-1/nhap-tai-san-co-dinh.md)
 * [Nhập Công cụ dụng cụ](huong-dan-su-dung-1/nhap-cong-cu-dung-cu.md)
-* [Chỉnh sửa đồng loạt chứng từ kế toán](huong-dan-su-dung-1/chinh-sua-dong-loat-chung-tu-ke-toan.md)
-* [Lấy Báo cáo tài chính vào HTKK](huong-dan-su-dung-1/lay-bao-cao-tai-chinh-vao-htkk.md)
-* [Bổ sung thêm tài khoản con trong từ điển](huong-dan-su-dung-1/bo-sung-them-tai-khoan-con-trong-tu-dien.md)
 * [Nhập định mức nguyên vật liệu cho đơn vị sản xuất](huong-dan-su-dung-1/nhap-dinh-muc-nguyen-vat-lieu-cho-don-vi-san-xuat.md)
-* [Chuyển excel vào phần mềm kế toán](huong-dan-su-dung-1/chuyen-excel-vao-phan-mem-ke-toan.md)
 * [Nhập chứng từ hàng bán bị trả lại](huong-dan-su-dung-1/nhap-chung-tu-hang-ban-bi-tra-lai.md)
 
 ## Hướng dẫn tiện ích
@@ -31,6 +25,7 @@
 * [Sử dụng thanh menu TIỆN ÍCH](huong-dan-tien-ich/su-dung-thanh-menu-tien-ich.md)
 * [Chỉnh sửa đồng loạt chứng từ kế toán](huong-dan-tien-ich/chinh-sua-dong-loat-chung-tu-ke-toan.md)
 * [Lấy Báo cáo tài chính vào HTKK](huong-dan-tien-ich/lay-bao-cao-tai-chinh-vao-htkk.md)
+* [Chuyển EXCEL vào phần mềm kế toán](huong-dan-tien-ich/chuyen-excel-vao-phan-mem-ke-toan.md)
 
 ## Kiến thức kế toán
 
