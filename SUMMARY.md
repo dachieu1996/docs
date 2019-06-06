@@ -12,8 +12,6 @@
 * [Nhập chứng từ kế toán](huong-dan-su-dung-1/nhap-chung-tu-ke-toan.md)
 * [Nhập - xuất vật tư - hàng hóa](huong-dan-su-dung-1/nhap-xuat-vat-tu-hang-hoa.md)
 * [Nhập số dư đầu](huong-dan-su-dung-1/nhap-so-du-dau.md)
-* [Tạo dữ liệu mới](huong-dan-su-dung-1/tao-du-lieu-moi.md)
-* [Phục hồi dữ liệu cũ](huong-dan-su-dung-1/phuc-hoi-du-lieu-cu.md)
 * [Sử dụng thanh menu TIỆN ÍCH](huong-dan-su-dung-1/su-dung-thanh-menu-tien-ich.md)
 * [Phân bổ và kết chuyển tài khoản](huong-dan-su-dung-1/phan-bo-va-ket-chuyen-tai-khoan.md)
 * [Nhập Tài sản cố định](huong-dan-su-dung-1/nhap-tai-san-co-dinh.md)

@@ -25,7 +25,7 @@
 
 ### **1.1. Kiểu thứ nhất: dữ liệu đã được backup thành file.rar hoặc file.bak**
 
-Quý khách xem hướng dẫn tại link sau: [https://phanmemnhatnam.com/huong-dan-phuc-hoi-du-lieu/](https://phanmemnhatnam.com/huong-dan-phuc-hoi-du-lieu/)
+Quý khách xem hướng dẫn tại link sau: [https://docs.phanmemnhatnam.com/huong-dan-su-dung-1/phuc-hoi-du-lieu-cu](https://docs.phanmemnhatnam.com/huong-dan-su-dung-1/phuc-hoi-du-lieu-cu)
 
 ### **1.2. Kiểu thứ hai: dữ liệu được lưu trữ trong dưới dạng file gốc .mdf hoặc .data**
 
