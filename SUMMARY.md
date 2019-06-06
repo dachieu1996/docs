@@ -7,7 +7,7 @@
 * [Cài đặt máy chủ](cai-dat/cai-dat-may-chu.md)
 * [Cài đặt máy trạm](cai-dat/cai-dat-may-tram.md)
 
-## Hướng dẫn sử dụng
+## Hướng dẫn NHẬP
 
 * [Nhập chứng từ kế toán](huong-dan-su-dung-1/nhap-chung-tu-ke-toan.md)
 * [Nhập - xuất vật tư - hàng hóa](huong-dan-su-dung-1/nhap-xuat-vat-tu-hang-hoa.md)
@@ -25,6 +25,13 @@
 * [Chuyển excel vào phần mềm kế toán](huong-dan-su-dung-1/chuyen-excel-vao-phan-mem-ke-toan.md)
 * [Nhập chứng từ hàng bán bị trả lại](huong-dan-su-dung-1/nhap-chung-tu-hang-ban-bi-tra-lai.md)
 
+## Hướng dẫn tiện ích
+
+* [Phân bổ và kết chuyển tài khoản](huong-dan-tien-ich/untitled.md)
+* [Tạo dữ liệu mới](huong-dan-tien-ich/tao-du-lieu-moi.md)
+* [Phục hồi dữ liệu cũ](huong-dan-tien-ich/phuc-hoi-du-lieu-cu.md)
+* [Sử dụng thanh menu TIỆN ÍCH](huong-dan-tien-ich/su-dung-thanh-menu-tien-ich.md)
+
 ## Kiến thức kế toán
 
 * [Kế toán là gì? Hạch toán kế toán là gì? Thông tư 133 có gì khác?](kien-thuc-ke-toan/ke-toan-la-gi-hach-toan-ke-toan-la-gi-thong-tu-133-co-gi-khac-1.md)
@@ -36,4 +43,5 @@
 * [Cách hạch toán chiết khấu thương mại theo thông tư 133](kien-thuc-ke-toan/cach-hach-toan-chiet-khau-thuong-mai-theo-thong-tu-133.md)
 * [Cách hạch toán tiền lãi gửi - doanh thu hoạt động tài chính tài khoản 515](kien-thuc-ke-toan/cach-hach-toan-tien-lai-gui-doanh-thu-hoat-dong-tai-chinh-tai-khoan-515.md)
 * [Cách hạch toán doanh thu bán hàng - tài khoản 511](kien-thuc-ke-toan/cach-hach-toan-doanh-thu-ban-hang-tai-khoan-511.md)
+* [Untitled](kien-thuc-ke-toan/untitled.md)
 
