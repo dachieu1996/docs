@@ -21,17 +21,16 @@
 **Bước 4.** Menu “Tiện ích” -&gt; “Xuất XML, chuyển Excel vào phần mềm”
 
 * Nếu là TT200 chọn ô "1. Thông tư 200". Nếu là TT133 thì chọn "2. Thông tư 133-B01a"
-*  Khi đó sẽ có thêm “File cân đối tài khoản”
 
 ![](https://phanmemnhatnam.com/wp-content/uploads/2018/03/3-1.png)
 
-**Bước 5.** Bấm nút \(…\) ở “Nơi lưu file XML gốc” và chọn vào file TT200.xml của công ty cần chuyển.
+**Bước 5.** Bấm nút \[…\] ở “Nơi lưu file XML gốc” và chọn vào file TT200.xml \(hoặc TT133.XML\) của công ty cần chuyển.
 
-Tương tự bấm nút \(…\) chọn các file BCTC Excel
+Tương tự bấm nút \[…\] chọn các file BCTC Excel
 
 **Bước 6.** Sau khi chọn xong bấm “Thực hiện”
 
-**Bước 7.** Sau khi “Thực hiện” xong sẽ tạo ra file XML trong thư mục và có tên như “File cân đối kế toán”. Vào HTKK và bấm nút “Nhập từ XML”.
+**Bước 7.** Sau khi “Thực hiện” xong sẽ tạo ra file XML trong thư mục . Vào HTKK và bấm nút “Nhập từ XML”.
 
 
 
