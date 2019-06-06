@@ -31,6 +31,8 @@
 * [Tạo dữ liệu mới](huong-dan-tien-ich/tao-du-lieu-moi.md)
 * [Phục hồi dữ liệu cũ](huong-dan-tien-ich/phuc-hoi-du-lieu-cu.md)
 * [Sử dụng thanh menu TIỆN ÍCH](huong-dan-tien-ich/su-dung-thanh-menu-tien-ich.md)
+* [Chỉnh sửa đồng loạt chứng từ kế toán](huong-dan-tien-ich/chinh-sua-dong-loat-chung-tu-ke-toan.md)
+* [Lấy Báo cáo tài chính vào HTKK](huong-dan-tien-ich/lay-bao-cao-tai-chinh-vao-htkk.md)
 
 ## Kiến thức kế toán
 
