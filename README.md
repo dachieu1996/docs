@@ -1,4 +1,4 @@
-# GIỚI THIỆU
+# GIỚI THIỆU SẢN PHẨM
 
 ## **PHẦN MỀM KẾ TOÁN NHẤT NAM**
 

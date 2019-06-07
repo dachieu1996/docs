@@ -1,6 +1,7 @@
 # Table of contents
 
-* [GIỚI THIỆU](README.md)
+* [GIỚI THIỆU SẢN PHẨM](README.md)
+* [GIỚI THIỆU CÔNG TY](gioi-thieu-cong-ty.md)
 
 ## Cài đặt
 
