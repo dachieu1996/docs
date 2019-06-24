@@ -8,7 +8,7 @@
 * [Cài đặt máy chủ](cai-dat/cai-dat-may-chu.md)
 * [Cài đặt máy trạm](cai-dat/cai-dat-may-tram.md)
 
-## Hướng dẫn NHẬP
+## Hướng dẫn NHẬP <a id="huong-dan-su-dung-1"></a>
 
 * [Nhập chứng từ kế toán](huong-dan-su-dung-1/nhap-chung-tu-ke-toan.md)
 * [Nhập - xuất vật tư - hàng hóa](huong-dan-su-dung-1/nhap-xuat-vat-tu-hang-hoa.md)

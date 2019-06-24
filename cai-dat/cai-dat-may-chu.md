@@ -30,13 +30,13 @@ Giải nén file SQL2000Win10.rar
 6. Bấm "Edit" -&gt; chọn đến mục "User \(....\)" 
 7. tích hết các ô như "Full control, Modify......."  -&gt; bấm OK.
 
-![](../.gitbook/assets/1%20%281%29.png)
+![](../.gitbook/assets/1%20%283%29.png)
 
 Sau đó quay lại chỗ thư mục "SQL2000Win10" -&gt; kích đúp vào chọn đến thư mục "x86" -&gt; thư mục "Setup"
 
 * Chuột phải vào file setupsql.exe -&gt; chọn properties 
 
-![](../.gitbook/assets/1.png)
+![](../.gitbook/assets/1%20%281%29.png)
 
 * Chọn tab "Compatibility"
 * Tích vào ô "Run this program in compatibility mode for:"
@@ -48,7 +48,7 @@ Sau đó quay lại chỗ thư mục "SQL2000Win10" -&gt; kích đúp vào chọ
 * Bấm "Edit" -&gt; chọn đến mục "User \(....\)" 
 * Tích hết các ô như "Full control, Modify......."  -&gt; bấm OK.
 
-![](../.gitbook/assets/1%20%282%29.png)
+![](../.gitbook/assets/1%20%285%29.png)
 
 
 
