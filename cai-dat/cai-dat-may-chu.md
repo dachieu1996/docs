@@ -8,13 +8,13 @@
 
 Chọn tích vào "Use the Local System account"
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
 Chọn tích vào "Mixed Mode \(Windows Authentication and SQL Server Authentication\)
 
 Chọn tích vào "Blank Password \(not recommended\)
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
 Bấm "Next" cho đến khi hiện ra cửa sổ có chữ "Finish" là cài xong SQL server  
 
@@ -42,7 +42,7 @@ Sau đó quay lại chỗ thư mục "SQL2000Win10" -&gt; kích đúp vào chọ
 * Tích vào ô "Run this program in compatibility mode for:"
 * Tích tiếp vào ô "Run this program as an adminstrator"
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 * Chọn sang tab "Security" -&gt; 
 * Bấm "Edit" -&gt; chọn đến mục "User \(....\)" 
@@ -58,13 +58,13 @@ Sau đó quay lại chỗ thư mục "SQL2000Win10" -&gt; kích đúp vào chọ
 
 Chọn tích vào "Use the Local System account"
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
 Chọn tích vào "Mixed Mode \(Windows Authentication and SQL Server Authentication\)
 
 Chọn tích vào "Blank Password \(not recommended\)
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
 Bấm "Next" cho đến khi hiện ra cửa sổ có chữ "Finish" là cài xong SQL server  cho Win 10
 
@@ -72,7 +72,7 @@ Bấm "Next" cho đến khi hiện ra cửa sổ có chữ "Finish" là cài xon
 
 Chạy file Setup.exe -&gt; bấm Next -&gt; chờ chạy cài đặt xong bấm "Close" -&gt; khởi động lại máy.
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 
 
