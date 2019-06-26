@@ -17,6 +17,7 @@
 * [Nhập Công cụ dụng cụ](huong-dan-su-dung-1/nhap-cong-cu-dung-cu.md)
 * [Nhập định mức nguyên vật liệu cho đơn vị sản xuất](huong-dan-su-dung-1/nhap-dinh-muc-nguyen-vat-lieu-cho-don-vi-san-xuat.md)
 * [Nhập chứng từ hàng bán bị trả lại](huong-dan-su-dung-1/nhap-chung-tu-hang-ban-bi-tra-lai.md)
+* [Nhập từ điển hệ thống](huong-dan-su-dung-1/nhap-tu-dien-he-thong.md)
 
 ## KẾ TOÁN VẬN TẢI
 
