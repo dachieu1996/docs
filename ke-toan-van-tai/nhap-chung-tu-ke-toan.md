@@ -2,7 +2,13 @@
 
 Vào **Menu Chứng từ -&gt; Chứng từ kế toán. -&gt; chọn loại chứng từ -&gt; chọn tháng năm hạch toán -&gt; Tạo Mới**
 
-_Lưu ý:_  Các đối tượng như Người lái xe, Người thuê xe, Cái xe đều cho vào **HỆ THỐNG -&gt; Từ điển hệ thống -&gt; Từ điển Công nợ**
+_Lưu ý:_  
+
+* Các đối tượng như Người lái xe, Người thuê xe đều cho vào **HỆ THỐNG -&gt; Từ điển hệ thống -&gt; Từ điển Công nợ**
+* Các đối tượng như Cái xe \(biển số xe\) cho vào **HỆ THỐNG -&gt; Từ điển hệ thống -&gt; Từ điển công trình - hợp đồng**
+* Các đối tượng như Cung đường cho vào **HỆ THỐNG -&gt; Từ điển hệ thống -&gt; Từ điển khoản mục**
+
+\*\*\*\*
 
 ## **Phiếu chi tiền mặt** <a id="phieu-chi-tien-mat-phieu-thu-tien-mat"></a>
 
