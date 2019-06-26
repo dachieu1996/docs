@@ -18,6 +18,10 @@
 * [Nhập định mức nguyên vật liệu cho đơn vị sản xuất](huong-dan-su-dung-1/nhap-dinh-muc-nguyen-vat-lieu-cho-don-vi-san-xuat.md)
 * [Nhập chứng từ hàng bán bị trả lại](huong-dan-su-dung-1/nhap-chung-tu-hang-ban-bi-tra-lai.md)
 
+## KẾ TOÁN VẬN TẢI
+
+* [Nhập chứng từ kê toán](ke-toan-van-tai/nhap-chung-tu-ke-toan.md)
+
 ## Hướng dẫn tiện ích
 
 * [Phân bổ và kết chuyển tài khoản](huong-dan-tien-ich/untitled.md)
