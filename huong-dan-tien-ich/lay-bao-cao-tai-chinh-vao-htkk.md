@@ -15,7 +15,7 @@
 **Bước 3.** Chạy phần mềm kế toán -&gt; Vào menu "IN BÁO CÁO" -&gt; chọn "BÁO CÁO TÀI CHÍNH" 
 
 * Chọn in từng bảng "Cân đối kế toán", "Lưu chuyển tiền tệ", "Kết quả kinh doanh" 
-* Bấm vào biểu tượng   ![](../.gitbook/assets/image%20%287%29.png) \(ghi ra excel\) ở góc trái phía trên màn hình 
+* Bấm vào biểu tượng   ![](../.gitbook/assets/image%20%288%29.png) \(ghi ra excel\) ở góc trái phía trên màn hình 
 * Lưu từng báo cáo vào THƯ MỤC THUẾ vừa tạo \(nhớ đặt tên theo từng báo cáo cho dễ nhớ\)
 
 **Bước 4.** Menu “Tiện ích” -&gt; “Xuất XML, chuyển Excel vào phần mềm”
