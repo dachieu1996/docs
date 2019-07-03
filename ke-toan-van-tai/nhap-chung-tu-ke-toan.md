@@ -17,7 +17,7 @@ _Lưu ý:_
 * Nợ 1111 
 * Có 131: mã chi tiết có là tên đối tượng thuê xe, Số xe có là biển số xe được thuê, Khoản mục có là tên cung đường
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 ##  **Phiếu thu tiền mặt** <a id="phieu-chi-tien-mat-phieu-thu-tien-mat"></a>
 
@@ -26,11 +26,11 @@ _Lưu ý:_
 * nợ 334, điền chi tiết nợ, số xe nợ, mã khoản mục\(nếu có\)
 * có 1111 \(nếu chi bằng tiền mặt\)
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![](../.gitbook/assets/image%20%2824%29.png)
 
 ## **Chứng từ khác**
 
 -&gt; Liên quan đến các tài khoản còn lại như 131,141,331,511..., ví dụ: bút toán Phân bổ.
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
