@@ -26,13 +26,15 @@
 
 ## Hướng dẫn tiện ích
 
-* [Phân bổ và kết chuyển tài khoản](huong-dan-tien-ich/untitled.md)
+* [Kết chuyển và Phân bổ tài khoản](huong-dan-tien-ich/untitled.md)
+* [Phân bổ công trình - công trình](huong-dan-tien-ich/phan-bo-cong-trinh-cong-trinh.md)
 * [Tạo dữ liệu mới](huong-dan-tien-ich/tao-du-lieu-moi.md)
 * [Phục hồi dữ liệu cũ](huong-dan-tien-ich/phuc-hoi-du-lieu-cu.md)
 * [Sử dụng thanh menu TIỆN ÍCH](huong-dan-tien-ich/su-dung-thanh-menu-tien-ich.md)
 * [Chỉnh sửa đồng loạt chứng từ kế toán](huong-dan-tien-ich/chinh-sua-dong-loat-chung-tu-ke-toan.md)
 * [Lấy Báo cáo tài chính vào HTKK](huong-dan-tien-ich/lay-bao-cao-tai-chinh-vao-htkk.md)
 * [Chuyển EXCEL vào phần mềm kế toán](huong-dan-tien-ich/chuyen-excel-vao-phan-mem-ke-toan.md)
+* [Untitled](huong-dan-tien-ich/untitled-1.md)
 
 ## Kiến thức kế toán
 
