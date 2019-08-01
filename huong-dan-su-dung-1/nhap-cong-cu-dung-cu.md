@@ -6,15 +6,17 @@
 
 Vào CHỨNG TỪ -&gt; HỒ SƠ CÔNG CỤ DỤNG, CHI PHÍ TRẢ TRƯỚC -&gt; THÊM CCDC
 
-**Đối với CCDC mới. Nhập vào 3 tab: THÔNG TIN CHUNG, PHÂN BỔ, NGUYÊN GIÁ \(mới\)**
+### **Đối với CCDC mới.** 
 
-### **a. Tab Thông tin chung:** điền những thông tin về công cụ.
+**Nhập vào 3 tab: THÔNG TIN CHUNG, PHÂN BỔ, NGUYÊN GIÁ \(mới\)**
+
+#### **a. Tab Thông tin chung:** điền những thông tin về công cụ.
 
 _Lưu ý: Thời gian phân bổ CCDC là theo tháng, và phải tự nhập trực tiếp số tháng vào._
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
-### **b. Tab Phân bổ:** điền thời gian bắt đầu tính phân bổ, tài khoản chi phí là 2421 hoặc 2422, và tài khoản phân bổ khấu hao
+#### **b. Tab Phân bổ:** điền thời gian bắt đầu tính phân bổ, tài khoản chi phí là 2421 hoặc 2422, và tài khoản phân bổ khấu hao
 
 Ở tab PHÂN BỔ có 2 cách hạch toán CCDC
 
@@ -23,13 +25,13 @@ _Lưu ý: Thời gian phân bổ CCDC là theo tháng, và phải tự nhập tr
 
 ![](../.gitbook/assets/image%20%285%29.png)
 
-### **c. Tab Nguyên giá\(mới\):** hạch toán hóa đơn mua bán CCDC, tài khoản nợ là tài khoản chi phí, tài khoản có là 1111/331/141...
+#### **c. Tab Nguyên giá\(mới\):** hạch toán hóa đơn mua bán CCDC, tài khoản nợ là tài khoản chi phí, tài khoản có là 1111/331/141...
 
 Nếu có Thuế vat hạch toán thêm dòng thuế ghi nợ 1331 có 1111/331/141...-&gt; **sau đó** bấm vào nút THUẾ VAT ở góc phải phiếu nhập để kê thai thuế.
 
 ![Hinh 3. Nguy&#xEA;n gi&#xE1;\(m&#x1EDB;i\)](../.gitbook/assets/1.png)
 
-## **Đối với CCDC cũ \(đã có hao mòn\).** 
+### **Đối với CCDC cũ \(đã có hao mòn\).** 
 
 **Nhập vào 3 tab: THÔNG TIN CHUNG, NGUYÊN GIÁ\(cũ\), KHẤU HAO.**
 
