@@ -8,7 +8,7 @@
 
 Điền mã khách hàng \(viết liền không dấu\), điền tên khách hàng \(tên đối tượng\), điền thuộc vào nhóm \(nếu có\) -&gt; sau khi điền xong thông tin bấm CHẤP NHẬN
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 ## Từ điển công trình - hợp đồng
 
@@ -18,7 +18,7 @@
 
 _**Lưu ý:**  ô mã cấp trên chỉ điền khi công trình đó là công trình con của 1 dự án lớn_
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
 ## Từ điển vật tư
 
@@ -31,5 +31,5 @@ _**Lưu ý:**  ô mã cấp trên chỉ điền khi công trình đó là công 
 
 Sau khi điền xong thông tin bấm CHẤP NHẬN
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
