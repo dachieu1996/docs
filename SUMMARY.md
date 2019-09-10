@@ -15,7 +15,8 @@
 * [Nhập số dư đầu](huong-dan-su-dung-1/nhap-so-du-dau.md)
 * [Nhập Tài sản cố định](huong-dan-su-dung-1/nhap-tai-san-co-dinh.md)
 * [Nhập Công cụ dụng cụ](huong-dan-su-dung-1/nhap-cong-cu-dung-cu.md)
-* [Nhập định mức nguyên vật liệu cho đơn vị sản xuất](huong-dan-su-dung-1/nhap-dinh-muc-nguyen-vat-lieu-cho-don-vi-san-xuat.md)
+* [Nhập định mức nguyên vật liệu cho đơn vị sản xuất theo TT200](huong-dan-su-dung-1/nhap-dinh-muc-nguyen-vat-lieu-cho-don-vi-san-xuat.md)
+* [Nhập định mức nguyên vật liệu cho đơn vị sản xuất theo TT133](huong-dan-su-dung-1/nhap-dinh-muc-nguyen-vat-lieu-cho-don-vi-san-xuat-theo-tt133.md)
 * [Nhập chứng từ hàng bán bị trả lại](huong-dan-su-dung-1/nhap-chung-tu-hang-ban-bi-tra-lai.md)
 * [Nhập các bảng từ điển trong hệ thống](huong-dan-su-dung-1/nhap-tu-dien-he-thong.md)
 
@@ -27,7 +28,6 @@
 ## Hướng dẫn tiện ích
 
 * [Kết chuyển và Phân bổ tài khoản](huong-dan-tien-ich/untitled.md)
-* [Phân bổ công trình - công trình](huong-dan-tien-ich/phan-bo-cong-trinh-cong-trinh.md)
 * [Tạo dữ liệu mới](huong-dan-tien-ich/tao-du-lieu-moi.md)
 * [Phục hồi dữ liệu cũ](huong-dan-tien-ich/phuc-hoi-du-lieu-cu.md)
 * [Sử dụng thanh menu TIỆN ÍCH](huong-dan-tien-ich/su-dung-thanh-menu-tien-ich.md)

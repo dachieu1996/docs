@@ -8,7 +8,7 @@
 
 Điền mã khách hàng \(viết liền không dấu\), điền tên khách hàng \(tên đối tượng\), điền thuộc vào nhóm \(nếu có\) -&gt; sau khi điền xong thông tin bấm CHẤP NHẬN
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 ## ‌Từ điển số xe \(công trình hợp đồng\)
 
@@ -16,7 +16,7 @@
 
 Điền mã số xe, điền tên biển số xe -&gt; sau khi điền xong thông tin bấm CHẤP NHẬN‌
 
-![](../.gitbook/assets/image%20%2829%29.png)
+![](../.gitbook/assets/image%20%2831%29.png)
 
 ## Từ điển vật tư
 

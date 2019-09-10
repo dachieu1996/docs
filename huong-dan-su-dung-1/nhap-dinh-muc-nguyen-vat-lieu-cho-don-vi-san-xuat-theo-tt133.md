@@ -1,4 +1,4 @@
-# Nhập định mức nguyên vật liệu cho đơn vị sản xuất theo TT200
+# Nhập định mức nguyên vật liệu cho đơn vị sản xuất theo TT133
 
 Thay đổi tham số trong phần mềm: Khách hàng gọi cho các nhân viên hỗ trợ phần việc này.
 
@@ -6,7 +6,7 @@ Sau khi đã thay đổi tham số, quý khách thực hiện theo các bước 
 
 **Bước 1:** Vào menu Hệ thống -&gt; từ điển hệ thống -&gt; từ điển vật tư -&gt; khai báo các mã thành phẩm, ghi tài khoản 155, ghi tài khoản doanh thu thành phẩm 5112 và giá vốn thành phẩm 6323 \(tự mở thêm tài khoản chi tiết này\) .
 
-**Bước 2:** Vào menu Số dư -&gt; ĐỊnh mức nguyên vật liệu và sản lượng sx -&gt;bấm SỬA
+**Bước 2:** Vào menu Số dư -&gt; nh mức nguyên vật liệu và sản lượng sx -&gt;bấm SỬA
 
 **2.1.** Ở tab 1. ĐỊNH MỨC, chọn thành phẩm, thêm các vật tư cần để sản xuất thành phẩm ở phần khung bên cạnh
 
@@ -14,7 +14,7 @@ Sau khi đã thay đổi tham số, quý khách thực hiện theo các bước 
 
 ![](https://phanmemnhatnam.com/wp-content/uploads/2018/05/1.png)
 
-**2.2.** Ở tab 2. sản lương sản xuất -&gt; điền thời gian xuất thành phẩm, vật tư;
+**2.2.** Ở tab 2. sản l­ượng sản xuất -&gt; điền thời gian xuất thành phẩm, vật tư;
 
 Ví dụ cuối tháng 1 mới làm phiếu xuất, thì điền thời gian là 31/01/2017 ấn enter -&gt; các mã thành phẩm sẽ hiện ra ở khung bên kia, và điền sản lượng dự tính vào cột sản lượng.
 
