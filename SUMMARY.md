@@ -47,5 +47,6 @@
 * [Cách hạch toán chiết khấu thương mại theo thông tư 133](kien-thuc-ke-toan/cach-hach-toan-chiet-khau-thuong-mai-theo-thong-tu-133.md)
 * [Cách hạch toán tiền lãi gửi - doanh thu hoạt động tài chính tài khoản 515](kien-thuc-ke-toan/cach-hach-toan-tien-lai-gui-doanh-thu-hoat-dong-tai-chinh-tai-khoan-515.md)
 * [Cách hạch toán doanh thu bán hàng - tài khoản 511](kien-thuc-ke-toan/cach-hach-toan-doanh-thu-ban-hang-tai-khoan-511.md)
-* [Untitled](kien-thuc-ke-toan/untitled.md)
+* [Cách hạch toán cho thuê và đi thuê TCSĐ](kien-thuc-ke-toan/untitled.md)
+* [Untitled](kien-thuc-ke-toan/untitled-1.md)
 
