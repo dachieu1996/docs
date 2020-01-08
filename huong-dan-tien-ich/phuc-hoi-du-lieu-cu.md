@@ -26,7 +26,7 @@ Ta vào lại Hệ thống -&gt; A. Từ điển dữ liệu kế toán
 
 Điền mật khẩu: khong mot
 
-![H&#xEC;nh 3. T&#x1EEB; &#x111;i&#x1EC3;n d&#x1EEF; li&#x1EC7;u k&#x1EBF; to&#xE1;n](../.gitbook/assets/tudiendulieu.png)
+![H&#xEC;nh 3. T&#x1EEB; &#x111;i&#x1EC3;n d&#x1EEF; li&#x1EC7;u k&#x1EBF; to&#xE1;n](../.gitbook/assets/tudiendulieu%20%281%29.png)
 
 Sau khi lỗi dữ liệu ra bấm THOÁT, chương trình sẽ hỏi Có đồng ý ghi lại các thay đổi không? -&gt; bấm CÓ 
 
