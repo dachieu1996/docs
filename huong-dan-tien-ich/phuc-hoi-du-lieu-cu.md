@@ -1,34 +1,32 @@
 # Phục hồi dữ liệu cũ
 
-## Phục hồi dữ liệu có 2 kiểu:
+## Bước 1:
 
-### **Kiểu thứ nhất: Ghi đè lên dữ liệu cũ.**
+Đăng nhập vào chương trình với : **người sử dụng: 99, mật khẩu: khong mot** -&gt; đồng ý
 
-Bước 1: Vào nút Windown trên thanh taskbar -&gt; Microsoft SQL server -&gt; Service manager -&gt; ấn nút STOP để tạm dừng SQL
+Chọn Hệ thống -&gt; 1. Kết nối cơ sở dữ liệu
 
-![](https://phanmemnhatnam.com/wp-content/uploads/2018/03/3-2.png)
+                                          
 
-Bước 2: Vào thư mục chứa dữ liệu gốc tên thư mục là Dulieuketoan, thường sẽ ở ổ D:\Dulieuketoan, xóa file tên\_dữ\_liệu.data \(hoặc tên\_dữ\_liệu.mdf\) và tên\_dữ\_liệu.log
+![H&#xEC;nh 1. &#x110;&#x103;ng nh&#x1EAD;p &#x111;&#x1EC3; v&#xE0;o h&#x1EC7; th&#x1ED1;ng](../.gitbook/assets/khongmot.png)
 
-Bước 3: Bật Start/Continue của Service Manager lên để chạy tiếp SQL
+## Bước 2:
 
-Bước 4: Vào C:\Program Files \(x86\)\Ketoan -&gt; chọn Restore \(nếu phải phục hồi nhiều lần chuột phải vào Restore -&gt; send to desktop\)
+Sau khi hiện bảng này chọn Tạo Mới
 
-Kích vào Restore -&gt; chọn file nguồn dữ liệu -&gt; đặt tên dữ liệu -&gt; bấm thực hiện -&gt; Xong
+![H&#xEC;nh 2. T&#x1EA1;o m&#x1EDB;i](../.gitbook/assets/tm.png)
 
-![](https://phanmemnhatnam.com/wp-content/uploads/2018/03/5.png)
+Sau khi chọn Tạo mới sẽ hiện ra bảng sau: điền file nguồn chứa dữ liệu vào ô Từ file nén \(rar,zip...\) và điền tên dữ liệu vào ô Dữ liệu. Thao tác như hình dưới đây. -&gt; Điền xong bấm **Thực hiện** 
 
-### **Kiểu thứ hai: Dữ liệu đặt tên mới.**
+## Bước 3:
 
-Bước 1: Vào C:\Program Files \(x86\)\Ketoan -&gt; chọn Restore \(nếu phải phục hồi nhiều lần chuột phải vào Restore -&gt; send to desktop\)
+Sau khi phần mềm báo đã phục hồi thành công 
 
-**Kích vào Restore -&gt; chọn file nguồn dữ liệu -&gt; đặt tên dữ liệu -&gt; bấm thực hiện \(giống với bước 4 ở trên\)**
+Ta vào lại Hệ thống -&gt; A. Từ điển dữ liệu kế toán
 
-Bước 2: Đăng nhập vào chương trình: user: 99
+Điền mật khẩu: khong mot
 
-pass: khong mot \(chữ "khong" dấu cách chữ "mot"\)
+![H&#xEC;nh 3. T&#x1EEB; &#x111;i&#x1EC3;n d&#x1EEF; li&#x1EC7;u k&#x1EBF; to&#xE1;n](../.gitbook/assets/tudiendulieu.png)
 
-![](https://phanmemnhatnam.com/wp-content/uploads/2018/03/3-3.png)
-
-Bước 3: Chọn hệ thống -&gt; 8. Từ điển dữ liệu kế toán -&gt; pass: khong mot -&gt; chọn Sửa -&gt; lấy dữ liệu ra -&gt; Thoát -&gt; lưu thay đổi -&gt; Xong
+Sau khi lỗi dữ liệu ra bấm THOÁT, chương trình sẽ hỏi Có đồng ý ghi lại các thay đổi không? -&gt; bấm CÓ 
 
