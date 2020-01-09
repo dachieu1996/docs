@@ -14,6 +14,7 @@
 * [Nhập - xuất vật tư - hàng hóa](huong-dan-su-dung-1/nhap-xuat-vat-tu-hang-hoa.md)
 * [Nhập số dư đầu](huong-dan-su-dung-1/nhap-so-du-dau.md)
 * [Nhập Tài sản cố định](huong-dan-su-dung-1/nhap-tai-san-co-dinh.md)
+* [Thanh lý TSCĐ trên phần mềm kế toán](huong-dan-su-dung-1/thanh-ly-tscd-tren-phan-mem-ke-toan.md)
 * [Nhập Công cụ dụng cụ](huong-dan-su-dung-1/nhap-cong-cu-dung-cu.md)
 * [Nhập định mức nguyên vật liệu cho đơn vị sản xuất theo TT200](huong-dan-su-dung-1/nhap-dinh-muc-nguyen-vat-lieu-cho-don-vi-san-xuat.md)
 * [Nhập định mức nguyên vật liệu cho đơn vị sản xuất theo TT133](huong-dan-su-dung-1/nhap-dinh-muc-nguyen-vat-lieu-cho-don-vi-san-xuat-theo-tt133.md)
@@ -48,4 +49,5 @@
 * [Cách hạch toán tiền lãi gửi - doanh thu hoạt động tài chính tài khoản 515](kien-thuc-ke-toan/cach-hach-toan-tien-lai-gui-doanh-thu-hoat-dong-tai-chinh-tai-khoan-515.md)
 * [Cách hạch toán doanh thu bán hàng - tài khoản 511](kien-thuc-ke-toan/cach-hach-toan-doanh-thu-ban-hang-tai-khoan-511.md)
 * [Cách hạch toán cho thuê và đi thuê TCSĐ](kien-thuc-ke-toan/untitled.md)
+* [Cách hạch toán thanh lý Tài sản cố định](kien-thuc-ke-toan/cach-hach-toan-thanh-ly-tai-san-co-dinh.md)
 
