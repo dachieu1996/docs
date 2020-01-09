@@ -12,8 +12,6 @@ Ta vào **Chứng từ** -&gt; **Hồ sơ Tài sản cố định** -&gt; **ch�
 
 Chọn Tab 4. Nguyên giá\(mới\) -&gt; hạch toán ghi
 
-
-
 | nợ 214  có 211 | số tiền hao mòn lũy kế \(số tiền hao mòn của TSCD từ trước đến giờ\) |
 | :--- | :--- |
 | nợ 811 có 211 | số tiền còn lại của TSCD |
