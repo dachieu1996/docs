@@ -26,7 +26,7 @@ _Lưu ý:_
 * nợ 334, điền chi tiết nợ, số xe nợ, mã khoản mục\(nếu có\)
 * có 1111 \(nếu chi bằng tiền mặt\)
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](../.gitbook/assets/image%20%2836%29.png)
 
 ## **Chứng từ khác**
 

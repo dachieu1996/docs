@@ -18,7 +18,7 @@ Tài khoản 334 dùng để phản ánh các khoản chi phí phải trả cho 
 
 **Cách hạch toán lương cho người lao động:**
 
-| Nợ 1542,241,338,353,6422 |
+| Nợ 1542,241,338,353,6422                 Phân bổ lương cho nhân viên |
 | :--- |
 | Có 334 |
 
