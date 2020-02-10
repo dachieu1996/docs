@@ -32,11 +32,11 @@ _**\*Lưu ý: dữ liệu kế toán có thể nằm tập trung tại 1 máy ch
 
 ## Bước 3: In báo cáo hợp nhất
 
-Vào **In báo cáo,** chọn in bất kỳ báo cáo nào tại dữ liệu công ty mẹ, sẽ đều hiện ra các nút tích Hợp nhất báo cáo và Hiện bảng chọn đơn vị
+Vào **In báo cáo,** chọn in bất kỳ báo cáo nào tại dữ liệu công ty mẹ, sẽ đều hiện ra các nút tích **Hợp nhất báo cáo** và **Hiện bảng chọn đơn vị**
 
 ![](../.gitbook/assets/h10.PNG)
 
-Để in báo cáo hợp nhất, ta tích vào ô Hợp nhất báo cáo -&gt; bấm thực hiện để in, sẽ hiện ra bảng chọn các đơn vị muốn hợp nhất, muốn in báo cáo hợp nhất của những đơn vị nào thì tích vào đơn vị đó.
+Để in báo cáo hợp nhất, ta tích vào ô **Hợp nhất báo cáo** -&gt; bấm **Thực hiện** để in, sẽ hiện ra bảng chọn các đơn vị muốn hợp nhất, muốn in báo cáo hợp nhất của những đơn vị nào thì tích vào đơn vị đó.
 
 ![](../.gitbook/assets/h11.PNG)
 
