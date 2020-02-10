@@ -12,7 +12,7 @@ Vào **Hệ thống** -&gt; 7. **Thay đổi các tham số** -&gt; pass: khong 
 
 Tại ô Diễn giải cần tìm gõ chữ "hợp nhất" rồi bấm Enter, sẽ hiện ra bảng như sau:
 
-![H1. Thay &#x111;&#x1ED5;i tham s&#x1ED1; trong h&#x1EC7; th&#x1ED1;ng](../.gitbook/assets/h8%20%281%29.PNG)
+![](../.gitbook/assets/h8%20%281%29.PNG)
 
 Tại dòng **"Có hợp nhất dữ liệu"** đổi ở cột **Giá trị** thành **TRUE**
 
