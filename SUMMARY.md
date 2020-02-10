@@ -7,6 +7,7 @@
 
 * [Cài đặt máy chủ](cai-dat/cai-dat-may-chu.md)
 * [Cài đặt máy trạm](cai-dat/cai-dat-may-tram.md)
+* [Cài đặt cây dữ liệu hợp nhất](cai-dat/cai-dat-cay-du-lieu-hop-nhat.md)
 
 ## Hướng dẫn NHẬP <a id="huong-dan-su-dung-1"></a>
 
