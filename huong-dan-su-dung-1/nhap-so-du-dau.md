@@ -65,11 +65,23 @@ _**Lưu ý:** Trong trường hợp chưa có mã công nợ , công trình nào
 
 ![](../.gitbook/assets/h19.PNG)
 
-**Lưu ý:** Nếu là dữ liệu mới, chưa có các mã công nợ, công trình. Trước khi nhập số dư phải tạo mã cho các công nợ và công trình:
+### **6. Số dư vật tư, hàng hóa, thành phẩm:**
 
-Chọn menu Hệ Thống -&gt; Từ điển hệ thống -&gt; Từ điển công nợ : để nhập mã công nợ
+_**Lưu ý:** Trước khi nhập số dư cho vật tư, hàng hóa, ta cần phải có danh sách các mặt hàng._
 
-Chọn menu Hệ Thống -&gt; Từ điển hệ thống -&gt; Từ điển công trình, hợp đồng : để nhập mã công trình, hợp đồng
+_Ta vào link sau để xem cách tạo mã vật tư, hàng hóa, thành phẩm trong phần mềm:_ [_https://docs.phanmemnhatnam.com/huong-dan-su-dung-1/nhap-tu-dien-he-thong_](https://docs.phanmemnhatnam.com/huong-dan-su-dung-1/nhap-tu-dien-he-thong)\_\_
+
+* Chọn Kho để nhập số dư: Nhập số dư cho vật tư thì chọn Kho vật tư.
+* Nhập số lượng tồn vào cột **S.L ĐẦU**
+* Nhập số tiền tồn tổng của vật tư đó vào cột **TIỀN ĐẦU -&gt;** rồi bấm **Enter** để lưu số tiền
+
+![](../.gitbook/assets/h20.png)
+
+### 7. Số dư khoản mục:
+
+Để nhập số dư của các tài khoản theo dõi khoản mục
+
+Ví dụ: tài khoản 1111, 131, 331 hay 154... theo dõi khoản mục cũng nhập số dư đầu vào đây
 
 
 
