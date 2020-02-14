@@ -6,30 +6,40 @@
 
 **Hệ thống -&gt; Từ điển hệ thống -&gt; Từ điển công nợ -&gt; Bấm THÊM** 
 
-Điền mã khách hàng \(viết liền không dấu\), điền tên khách hàng \(tên đối tượng\), điền thuộc vào nhóm \(nếu có\) -&gt; sau khi điền xong thông tin bấm CHẤP NHẬN
+* Điền mã khách hàng: Viết liền không dấu
+* Điền tên khách hàng: tên của công ty hoặc của một cá nhân
+* Điền địa chỉ, Mã số thuế \(nếu có\) 
 
-![](../.gitbook/assets/image%20%2810%29.png)
+Sau khi điền xong thông tin bấm **CHẤP NHẬN** để lưu và bấm **KẾT THÚC** để thoát
+
+![](../.gitbook/assets/h21.png)
 
 ## Từ điển công trình - hợp đồng
 
 **Hệ thống -&gt; Từ điển hệ thống -&gt; Từ điển công trình - hợp đồng -&gt; Bấm THÊM** 
 
-Điền mã Công trình ****\(viết liền không dấu\), điền tên Công trình  -&gt; sau khi điền xong thông tin bấm CHẤP NHẬN
+* Điền mã cấp trên \(nếu có, không bắt buộc\)
+* Điền mã công trình: Viết liền không dấu \(mã số của Hợp đồng hoặc tên viết tắt của công trình\)
+* Điền tên công trình: tên đầy của công trình, hợp đồng đó
+
+Sau khi điền xong thông tin bấm **CHẤP NHẬN** để lưu và bấm **KẾT THÚC** để thoát
 
 _**Lưu ý:**  ô mã cấp trên chỉ điền khi công trình đó là công trình con của 1 dự án lớn_
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/h22.png)
 
 ## Từ điển vật tư
 
 **Hệ thống -&gt; Từ điển hệ thống -&gt; Từ điển Vật tư -&gt; Bấm THÊM** 
 
 * Điền mã vật tư \(viết liền không dấu\)
-* Điền tên vật tư, điền tài khoản \(152,156,155,153...\)
-* Điền đơn vị tính \(chọn trong từ điển đơn vị tính\)
-* Nếu mặt hàng đó đem ra bán thì điền thêm tài khoản doanh thu 511, và tài khoản giá vốn 632
+* Điền tên vật tư
+* Điền tài khoản \(152,156,155,153...\)
+* Điền đơn vị tính: ấn vào nút ![](../.gitbook/assets/h12.png) để chọn theo từ điển có sẵn
 
-Sau khi điền xong thông tin bấm CHẤP NHẬN
+_**Lưu ý:** Nếu là **Hàng hóa đem bán** thì điền thêm T**ài khoản doanh thu** là 511, và **Tài khoản giá vốn** là 632_
 
-![](../.gitbook/assets/image%20%287%29.png)
+Sau khi điền xong thông tin bấm **Chấp nhận** để lưu mới vật tư
+
+![](../.gitbook/assets/h13.png)
 
