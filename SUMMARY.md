@@ -12,9 +12,9 @@
 
 ## Hướng dẫn NHẬP <a id="huong-dan-su-dung-1"></a>
 
+* [Nhập số dư đầu](huong-dan-su-dung-1/nhap-so-du-dau.md)
 * [Nhập chứng từ kế toán](huong-dan-su-dung-1/nhap-chung-tu-ke-toan.md)
 * [Nhập - xuất vật tư - hàng hóa](huong-dan-su-dung-1/nhap-xuat-vat-tu-hang-hoa.md)
-* [Nhập số dư đầu](huong-dan-su-dung-1/nhap-so-du-dau.md)
 * [Nhập Tài sản cố định](huong-dan-su-dung-1/nhap-tai-san-co-dinh.md)
 * [Thanh lý TSCĐ trên phần mềm kế toán](huong-dan-su-dung-1/thanh-ly-tscd-tren-phan-mem-ke-toan.md)
 * [Nhập Công cụ dụng cụ](huong-dan-su-dung-1/nhap-cong-cu-dung-cu.md)
