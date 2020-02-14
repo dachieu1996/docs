@@ -2,6 +2,7 @@
 
 * [GIỚI THIỆU SẢN PHẨM](README.md)
 * [GIỚI THIỆU CÔNG TY](gioi-thieu-cong-ty.md)
+* [Tải bản hướng dẫn dạng .doc](tai-ban-huong-dan-dang-.doc.md)
 
 ## Cài đặt
 

@@ -2,9 +2,21 @@
 
 ## **Nhập Vật tư - Hàng hóa - Thành phẩm**
 
-**Bước 1:** Vào Chứng từ -&gt; Phiếu nhập Vật tư, hàng hóa, thành phẩm -&gt; chọn kho nhập vào tháng năm hạch toán -&gt; tạo Mới
+### **Bước 1:**
 
-**Bước 2:** Nhập vào phiếu -&gt; lưu số liệu
+ Vào **Chứng từ** -&gt; **Phiếu nhập Vật tư, hàng hóa, thành phẩm** -&gt; chọn K**ho nhập** -&gt; chọn T**háng năm** hạch toán -&gt; tạo **Mới**
+
+### **Bước 2:** 
+
+* Nhập số phiếu \(số phiếu có thể tự động tăng\)
+* Nhập ngày chứng từ 
+* Nhâp tài khoản có \(331 hoặc 1111\)
+
+| Có 331 | Nhập mã khách hàng và mã hợp đồng \(nếu có\) |
+| :--- | :--- |
+
+
+* Chọn vật tư
 
 ![](../.gitbook/assets/vt1.png)
 
