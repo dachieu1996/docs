@@ -4,9 +4,9 @@
 
 Bước 1: Vào menu TIỆN ÍCH -&gt; LỌC CHỨNG TỪ KÊ TOÁN -&gt; lọc các bút toàn cần sửa
 
-Bước 2: Bấm nút “Sửa”
+Bước 2: Bấm nút **SỬA**
 
-Bước 3: “Chọn cột được sửa” ở góc trái màn hình -&gt; kích chuột vào 1 ô trong cột đã chọn
+Bước 3: **“Chọn cột được sửa”** ở góc trái màn hình -&gt; rồi kích chuột vào 1 ô trong cột đã chọn
 
 3.1: Nếu muốn sửa tất cả các chứng từ đã lọc: bấm Ctrl+E -&gt; điền giá trị thay thế vào ô trống
 
