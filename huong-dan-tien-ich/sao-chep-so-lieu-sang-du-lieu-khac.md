@@ -19,15 +19,15 @@ Sau khi chọn mục cần thiết, Ví dụ chọn mục **1. Copy chứng từ
 
 ## Bước 3: Copy Paste
 
-Sau khi bôi xanh các dòng, bấm nút **COPY, rồi bấm PASTE** \(bên cạnh\):
+Sau khi bôi xanh các dòng, bấm nút **COPY, rồi bấm nút PASTE** \(bên cạnh\):
 
-* **Ô tên Server:** là tên của máy chủ, nếu đấy là máy chủ thì điền là **\(local\)**
-* **Ô Dữ liệu:** điền ****tên của dữ liệu muốn copy đến vào 
+* **Ô Tên Server:** là tên của máy chủ, nếu đấy là máy chủ rồi thì điền là **\(local\)**
+* **Ô Dữ liệu:** điền ****tên của dữ liệu muốn copy đến 
 * Nếu có thêm mã công nợ mới, bấm tích vào ô **Khi copy dữ liệu thì copy luôn từ điển**
 
 ![](../.gitbook/assets/h28.PNG)
 
-Điền và chọn đủ thông tin bấm **CHẤP NHẬN** để chạy, sẽ thấy 1 dòng chạy như thế này ở phần Loại chứng từ phía trên góc trái màn hình, sau khi chạy xong chương trình sẽ báo **ĐÃ COPY XONG**
+Bấm **CHẤP NHẬN** để chạy, sẽ thấy 1 dòng chạy như thế này ở phần Loại chứng từ phía trên góc trái màn hình, sau khi chạy xong chương trình sẽ báo **ĐÃ COPY XONG**
 
 ![](../.gitbook/assets/h29.PNG)
 
