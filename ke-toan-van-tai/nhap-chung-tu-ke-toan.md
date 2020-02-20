@@ -10,7 +10,7 @@ _Lưu ý:_
 
 \*\*\*\*
 
-## **Phiếu chi tiền mặt** <a id="phieu-chi-tien-mat-phieu-thu-tien-mat"></a>
+## **Phiếu thu tiền mặt** <a id="phieu-chi-tien-mat-phieu-thu-tien-mat"></a>
 
 **Ví dụ**: Có 1 công ty ABC thuê xe của đơn vị vân tải, tháng 1/2018 xuất hóa đơn và thu 1 phần tiền cước vận chuyển về.
 
@@ -19,7 +19,7 @@ _Lưu ý:_
 
 ![](../.gitbook/assets/image%20%289%29.png)
 
-##  **Phiếu thu tiền mặt** <a id="phieu-chi-tien-mat-phieu-thu-tien-mat"></a>
+##  **Phiếu chi tiền mặt** <a id="phieu-chi-tien-mat-phieu-thu-tien-mat"></a>
 
 **Ví dụ:** Chi tiền lương cho lái xe, hạch toán ghi:
 
