@@ -72,7 +72,7 @@ Bấm "Next" cho đến khi hiện ra cửa sổ có chữ "Finish" là cài xon
 
 Chạy file Setup.exe -&gt; bấm Next -&gt; chờ chạy cài đặt xong bấm "Close" -&gt; khởi động lại máy.
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/image%20%2829%29.png)
 
 
 

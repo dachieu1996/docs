@@ -8,7 +8,7 @@ Sau khi đã thay đổi tham số, quý khách thực hiện theo các bước 
 
 * Vào menu Hệ thống -&gt; từ điển hệ thống -&gt; từ điển tài khoản -&gt; Bấm THÊM -&gt; thêm tài khoản 1548 - Tổng hợp chi phí xây dựng, có mở chi tiết và theo dõi a. Có công trình, hợp đồng không có công nợ.
 
-![H&#xEC;nh 1. T&#x1EA1;o t&#xE0;i kho&#x1EA3;n 1548](../.gitbook/assets/image%20%2823%29.png)
+![H&#xEC;nh 1. T&#x1EA1;o t&#xE0;i kho&#x1EA3;n 1548](../.gitbook/assets/image%20%2824%29.png)
 
 * Vào menu Hệ thống -&gt; từ điển hệ thống -&gt; từ điển vật tư -&gt; khai báo các mã thành phẩm, ghi tài khoản 155, ghi tài khoản doanh thu thành phẩm 5112 và giá vốn thành phẩm 6323 \(tự mở thêm tài khoản chi tiết này\) .
 

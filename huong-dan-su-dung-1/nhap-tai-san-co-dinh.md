@@ -1,7 +1,5 @@
 # Nhập Tài sản cố định
 
-
-
 ## **TÀI SẢN CỐ ĐỊNH**
 
 Vào CHỨNG TỪ -&gt; HỒ SƠ TÀI SẢN CỐ ĐỊNH -&gt; THÊM TSCĐ
@@ -12,17 +10,17 @@ Vào CHỨNG TỪ -&gt; HỒ SƠ TÀI SẢN CỐ ĐỊNH -&gt; THÊM TSCĐ
 
 **a. Tab Thông tin chung:** điền những thông tin về tài sản.
 
-![H&#xEC;nh 1. Th&#xF4;ng tin chung](https://phanmemnhatnam.com/wp-content/uploads/2018/03/3-4.png)
+![](../.gitbook/assets/h40.PNG)
 
-**b. Tab Khấu hao:** điền thời gian bắt đầu tính khấu hao, tài khoản tài sản, tài khoản hao mòn, và tài khoản phân bổ khấu hao
+**b. Tab Khấu hao:** điền thời gian bắt đầu tính khấu hao, tài khoản tài sản 211, tài khoản hao mòn 214, và tài khoản phân bổ khấu hao 154/642/623...
 
-![H&#xEC;nh 2. Kh&#x1EA5;u hao](https://phanmemnhatnam.com/wp-content/uploads/2018/03/3-5.png)
+![](../.gitbook/assets/h41.PNG)
 
-**c. Tab Tăng giảm:** hạch toán hóa đơn mua bán tài sản cố định, tài khoản nợ là tài khoản tài sản, tài khoản có là 1111 hoặc 331
+**c. Tab Tăng giảm:** hạch toán hóa đơn mua bán tài sản cố định, tài khoản nợ là tài khoản tài sản 211, tài khoản có là 1111/331
 
-nếu có Thuế vat hạch toán thêm dòng thuế ghi nợ 1331 có 1111 hoặc 331-&gt; bấm vào nút THUẾ VAT ở góc phải phiếu nhập để kê thai thuế.
+nếu có Thuế vat hạch toán thêm dòng thuế ghi nợ 1331 có 1111/331-&gt; bấm vào nút THUẾ VAT ở góc phải phiếu nhập để kê thai thuế.
 
-![H&#xEC;nh 3. T&#x103;ng gi&#x1EA3;m](https://phanmemnhatnam.com/wp-content/uploads/2018/03/3-6.png)
+![](../.gitbook/assets/h42.PNG)
 
 ### **Đối với TSCĐ cũ \(đã có hao mòn\).** 
 

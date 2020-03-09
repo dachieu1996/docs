@@ -1,7 +1,5 @@
 # Nhập Công cụ dụng cụ
 
-
-
 ## CÔNG CỤ DỤNG CỤ
 
 Vào CHỨNG TỪ -&gt; HỒ SƠ CÔNG CỤ DỤNG, CHI PHÍ TRẢ TRƯỚC -&gt; THÊM CCDC
