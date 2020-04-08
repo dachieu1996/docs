@@ -2,6 +2,10 @@
 
 Thay đổi tham số trong phần mềm: Khách hàng gọi cho các nhân viên hỗ trợ phần việc này.
 
+|  |  |
+| :--- | :--- |
+|  |  |
+
 Sau khi đã thay đổi tham số, quý khách thực hiện theo các bước sau:
 
 **Bước 1:**
