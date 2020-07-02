@@ -36,7 +36,9 @@ Vào Hệ thống -&gt; Thay đổi tham số -&gt; pass: khong mot -&gt; search
       </td>
     </tr>
   </tbody>
-</table>## Bước 2: Chứng từ -&gt; Phiếu nhập xuất thẳng vật tư
+</table>
+
+## Bước 2: Chứng từ -&gt; Phiếu nhập xuất thẳng vật tư
 
 Vào **Chứng từ** -&gt; **Phiếu nhập - xuất thẳng vật tư** -&gt; Chọn **Kho** \(có thể tạo thêm kho nhập xuất thẳng để phân biệt với các kho khác\) -&gt; bấm **Mới**
 

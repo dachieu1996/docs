@@ -15,7 +15,7 @@ Vào Hệ thống -&gt; Thay đổi tham số -&gt; pass: khong mot -&gt; search
 * Thêm tài khoản **1548 - Tổng hợp chi phí xây dựng**
 * Tích vào ô **Có mở chi tiết** và theo dõi **a. Có công trình, hợp đồng không có công nợ.**
 
-![](../.gitbook/assets/image%20%2824%29.png)
+![](../.gitbook/assets/image%20%2823%29.png)
 
 ## Bước 3: Tạo mã các thành phẩm
 

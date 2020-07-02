@@ -14,7 +14,7 @@ Sử dụng cho các tài khoản không mở chi tiết. Ví dụ có 641, 642,
 
 Vào **TÍNH TOÁN -&gt; KẾT CHUYỂN TÀI KHOẢN** -&gt; chọn thời gian kết chuyển, chọn tài khoản kết chuyển -&gt; bấm Kết chuyển -&gt; Lưu kết quả **sẽ tạo ra giá trị được kết chuyển ở cột Kết chuyển mới = Dư đầu kỳ + Phát sinh trong kỳ.**
 
-![H&#xEC;nh 1. K&#x1EBF;t chuy&#x1EC3;n t&#xE0;i kho&#x1EA3;n](../.gitbook/assets/image%20%2831%29.png)
+![H&#xEC;nh 1. K&#x1EBF;t chuy&#x1EC3;n t&#xE0;i kho&#x1EA3;n](../.gitbook/assets/image%20%2830%29.png)
 
 **Muốn sửa Từ điển tài khoản kết chuyển: bấm vào nút “Sửa Tài khoản”**
 
@@ -64,7 +64,7 @@ Vào **TÍNH TOÁN** -&gt; **KẾT CHUYỂN CÔNG TRÌNH, HỢP ĐỒNG** -&gt; 
 
 Phân bổ các tài khoản không mở chi tiết công trình sang tài khoản có mở chi tiết công trình. Ví dụ 6274 sang 154 hoặc phân bổ chi phí quản lý trong biểu phân tích giá thành có 642 sang Nợ 911.
 
-![H&#xEC;nh 3. Ph&#xE2;n b&#x1ED5; t&#xE0;i kho&#x1EA3;n c&#xF4;ng tr&#xEC;nh](../.gitbook/assets/image%20%2828%29.png)
+![H&#xEC;nh 3. Ph&#xE2;n b&#x1ED5; t&#xE0;i kho&#x1EA3;n c&#xF4;ng tr&#xEC;nh](../.gitbook/assets/image%20%2827%29.png)
 
 Có 5 tiêu thức phân bổ là: **Doanh thu - giá vốn, Lãi gộp, Theo phát sinh tài khoản, Theo số lượng hoặc sản lượng, Tỷ lệ.**  Khi ta bấm và dòng Tiêu thức phân bổ màu xanh ngoài màn hình của Phân bổ Tài  khoản công trình, thì giao diện sau xuất hiện:
 
@@ -82,7 +82,7 @@ Nếu đơn vị tạo ra các đối tượng để tập hợp các chi phí c
 
 ![H&#xEC;nh 5. T&#x1EA1;o c&#xF4;ng tr&#xEC;nh ph&#xE2;n b&#x1ED5;](../.gitbook/assets/4%20%281%29.png)
 
-![H&#xEC;nh 6. Ph&#xE2;n b&#x1ED5; c&#xF4;ng tr&#xEC;nh - c&#xF4;ng tr&#xEC;nh](../.gitbook/assets/image%20%2825%29.png)
+![H&#xEC;nh 6. Ph&#xE2;n b&#x1ED5; c&#xF4;ng tr&#xEC;nh - c&#xF4;ng tr&#xEC;nh](../.gitbook/assets/image%20%2824%29.png)
 
 Do đặc thù của từng đơn vị, kế toán viên luôn muốn việc hạch toán chi phí được thực hiện trực tiếp vào các công trình - hợp đồng cụ thể. Nhưng có những chi phí vẫn không thể hạch toán trực tiếp được mà phải hạch toán vào 1 đầu mục CHUNG, sau đó từ đầu mục CHUNG mới PHÂN BỔ cho những đầu mục khác.  
 👍 Phần mềm kế toán Nhất Nam có thể xử lý mọi tình huống PHÂN BỔ, với đầy đủ các tiêu thức phân bổ để kế toán viên lựa chọn cho phù hợp với công việc của mình như: Lãi gộp, phát sinh theo tài khoản, số lương - sản lượng, tỷ lệ...
