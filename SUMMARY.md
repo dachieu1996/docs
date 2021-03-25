@@ -40,6 +40,7 @@
 * [Chỉnh sửa đồng loạt chứng từ kế toán](huong-dan-tien-ich/chinh-sua-dong-loat-chung-tu-ke-toan.md)
 * [Lấy Báo cáo tài chính vào HTKK](huong-dan-tien-ich/lay-bao-cao-tai-chinh-vao-htkk.md)
 * [Chuyển EXCEL vào phần mềm kế toán](huong-dan-tien-ich/chuyen-excel-vao-phan-mem-ke-toan.md)
+* [In một loạt chứng từ kế toán](huong-dan-tien-ich/in-mot-loat-chung-tu-ke-toan.md)
 
 ## Kiến thức kế toán
 
